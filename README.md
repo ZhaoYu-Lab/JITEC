@@ -1,4 +1,5 @@
-# JITEC
+# This is code and data for the JITEC method with the paper Enhance Expert-Semantic Feature Extraction and Combine Feature Importance and Attention Scores for Just-In-Time Defect Prediction and Localization
+
 
 Since the trained model and dataset are too large, we put all the files into the Zenodo online repository https://zenodo.org/records/12706754?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjMwNTgyOTYyLTBkNzItNDM1OC05NWViLTE5MWM4NTU0OTIyZSIsImRhdGEiOnt9LCJyYW5kb20iOiJmOWEyZjM4OWZjNDZiZmE0YTkzYzYwMTIwYWNlODE0YiJ9._V-hFw1a1TTNZ0-WlSn9b1SYhbnRDoa_fh8WQDCqomtIS9V3h8tAPe-LLeX5PWoUNbbBakwEkscXHSeidk68hA.
 
