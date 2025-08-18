@@ -19,9 +19,6 @@ For the prediction and location performance in <b/>Section 5.1 and 5.3</b> of th
 
 For the results of the ablation experiment in <b/>Section 5.2</b> of the paper, you can obtain the experimental results under different configurations by executing the #test command in the setup.txt file in the folder <b/>RQ2-ablation-jitec-sdp</b>. Similarly, if you want to retrain and test the results, please execute the #train command directly.
 
+For the results in the paper <b/>Discussion</b>, you can get experimental results under different batches and seeds by executing the #test command in the setup.txt in the folder <b/>Discussion</b>. Similarly, if you want to retrain and test the results, please execute the #train command directly.
 
-
-
-and execute the directories corresponding to train and test in setup.
-
-We also uploaded the log file printed during the model test, which stores the performance of the model during the test. You can first execute the test command to verify the model performance. If you need to retrain the model, just execute the train command.
+We also uploaded the log file printed during the model test, which stores the performance of the model during the test. If you have any questions, please contact us directly！
