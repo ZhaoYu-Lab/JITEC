@@ -1,7 +1,11 @@
 # This is code and data for the JITEC method with the paper Enhance Expert-Semantic Feature Extraction and Combine Feature Importance and Attention Scores for Just-In-Time Defect Prediction and Localization
 
 ## Folder Description
-The folder Discussion corresponds to the experimental results reproduced in the <b/>Section Discussion</b> of this paper. The four folders in it represent the experimental codes of different batches and seeds.
+The first folder <b/>Discussion</b> corresponds to the experimental results reproduced in the <b/>Section Discussion</b> of this paper. The four folders in it represent the experimental codes of different batches and seeds.
+
+The second folder <b/>RQ1+RQ3-JITEC</b> corresponds to the experimental results reproduced in the <b/>Section 5.1 and 5.3</b> of this paper. The folder in it represents the experimental codes of multiple metrics performance for prediction and location.
+
+The third folder <b/>RQ2-ablation-jitec-sdp</b> corresponds to the experimental results reproduced in the <b/>Section 5.2</b> of this paper. The folders in it represent the experimental codes of multiple ablation settings for prediction.
 
 Since the trained model and dataset are too large, we put all the files into the Zenodo online repository https://zenodo.org/records/12706754?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjMwNTgyOTYyLTBkNzItNDM1OC05NWViLTE5MWM4NTU0OTIyZSIsImRhdGEiOnt9LCJyYW5kb20iOiJmOWEyZjM4OWZjNDZiZmE0YTkzYzYwMTIwYWNlODE0YiJ9._V-hFw1a1TTNZ0-WlSn9b1SYhbnRDoa_fh8WQDCqomtIS9V3h8tAPe-LLeX5PWoUNbbBakwEkscXHSeidk68hA.
 
