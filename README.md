@@ -10,6 +10,7 @@ The third folder <b/>RQ2-ablation-jitec-sdp</b> corresponds to the experimental 
 ## Reproduce Experiment
 We save the experimental data and models in the Zenodo online repository https://zenodo.org/records/12706754?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjMwNTgyOTYyLTBkNzItNDM1OC05NWViLTE5MWM4NTU0OTIyZSIsImRhdGEiOnt9LCJyYW5kb20iOiJmOWEyZjM4OWZjNDZiZmE0YTkzYzYwMTIwYWNlODE0YiJ9._V-hFw1a1TTNZ0-WlSn9b1SYhbnRDoa_fh8WQDCqomtIS9V3h8tAPe-LLeX5PWoUNbbBakwEkscXHSeidk68hA., so the first step to reproduce the experiment is to move the Models and Datasets in the Zenodo online repository to the corresponding folders in the GitHub repository. Note that Zenodo has a directory that is the same as the GitHub repository. Move the dataset and model files in the corresponding directory to the corresponding directory of the GitHub repository.
 
+The second step is to create an experimental environment. You can get the same experimental environment by executing the following code: conda env create -f environment.yml
 
 
 and execute the directories corresponding to train and test in setup.
